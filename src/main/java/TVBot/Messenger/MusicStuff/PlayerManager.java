@@ -96,7 +96,8 @@ public class PlayerManager
         musicManager.scheduler.queue(track);
     }
 
-    public void puase(Guild guild){
+    public void pause(Guild guild){
+
 
     }
 
